@@ -16,7 +16,7 @@ We offer a diverse range of services and solutions tailored to meet the needs of
 
 For any questions or suggestions, feel free to reach out to us:
 
-- **Email**: [info@mekanetenergy.com](mailto:info@mekanetenergy.com)
+- **Email**: [info@mekanetenergy.com.tr](mailto:info@mekanetenergy.com.tr)
 - **Phone**: [+90 232 472 34 78](tel:+902324723478)
 - **Address**: Bornova, Izmir, Turkey
 - **LinkedIn**: [https://www.linkedin.com/company/mekanet-energy-automation/](https://www.linkedin.com/company/mekanet-energy-automation/)
