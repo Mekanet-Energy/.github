@@ -2,22 +2,43 @@
 
 ## About Us
 
-Mekanet Energy specializes in control systems, offering a wide range of services including assembly, maintenance, PLC and RTU programming, troubleshooting, HMI programming, and control panel design and production. We also provide advanced energy monitoring and management services, focusing on energy consumption measurement, enhancing traceability, and identifying opportunities for energy savings.
-In addition, we offer comprehensive instrumentation services, covering calibration control and the installation and commissioning of a variety of industrial instruments, supported by a qualified team of engineers and technicians.
+Mekanet Energy specializes in control systems and industrial automation solutions. Our comprehensive suite of services ensures optimal performance and efficiency for your industrial operations.
 
-## Our Projects
+## Our Solutions Flow
 
-We offer a diverse range of services and solutions tailored to meet the needs of various industries:
+```mermaid
+graph LR
+    A[Control Systems] --> B[Automation]
+    A --> C[Energy Management]
+    A --> D[Instrumentation]
+    B --> E[PLC/RTU Programming]
+    B --> F[HMI Development]
+    C --> G[Monitoring]
+    C --> H[Optimization]
+    D --> I[Calibration]
+    D --> J[Installation]
+```
 
-- **Industrial Automation**: Optimize business processes and enhance efficiency across operations.
-- **Energy Management**: Analyze your energy requirements and offer solutions that promote energy savings through our advanced platforms.
-- **Calibration Services**: Ensure the accuracy and reliability of your instruments with our professional calibration control services.
+## Core Services
 
-## Contact Us
+| Service Category      | Key Features                                                             | Benefits                                                               |
+| --------------------- | ------------------------------------------------------------------------ | ---------------------------------------------------------------------- |
+| Industrial Automation | • PLC/RTU Programming<br>• HMI Programming<br>• Control Panel Design     | • Enhanced Efficiency<br>• Process Optimization<br>• Real-time Control |
+| Energy Management     | • Consumption Monitoring<br>• Usage Analysis<br>• Optimization Solutions | • Cost Reduction<br>• Better Traceability<br>• Resource Optimization   |
+| Instrumentation       | • Calibration Control<br>• Installation Services<br>• Commissioning      | • Improved Accuracy<br>• Reliable Operations<br>• Professional Setup   |
 
-For any questions or suggestions, feel free to reach out to us:
+## Technical Expertise
 
-- **Email**: [info@mekanetenergy.com.tr](mailto:info@mekanetenergy.com.tr)
-- **Phone**: [+90 232 472 34 78](tel:+902324723478)
-- **Address**: Bornova, Izmir, Turkey
-- **LinkedIn**: [company/mekanet-energy-automation](https://www.linkedin.com/company/mekanet-energy-automation/)
+- Control System Integration
+- PLC & RTU Programming
+- HMI Development
+- Control Panel Design & Production
+- Energy Monitoring Platforms
+- Industrial Instrument Calibration
+
+## Get in Touch
+
+📧 **Email**: [info@mekanetenergy.com.tr](mailto:info@mekanetenergy.com.tr)  
+📞 **Phone**: [+90 232 472 34 78](tel:+902324723478)  
+📍 **Location**: Bornova, Izmir, Turkey  
+💼 **LinkedIn**: [company/mekanet-energy-automation](https://www.linkedin.com/company/mekanet-energy-automation/)
