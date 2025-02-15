@@ -8,15 +8,27 @@ Mekanet Energy specializes in control systems and industrial automation solution
 
 ```mermaid
 graph LR
-    A[Control Systems] --> B[Automation]
-    A --> C[Energy Management]
-    A --> D[Instrumentation]
-    B --> E[PLC/RTU Programming]
-    B --> F[HMI Development]
-    C --> G[Monitoring]
-    C --> H[Optimization]
-    D --> I[Calibration]
-    D --> J[Installation]
+    %% Main Systems
+    CS[Control Systems] --> AUT[Automation]
+    CS --> EM[Energy Management]
+    CS --> INS[Instrumentation]
+
+    %% Automation Branch
+    AUT --> PLC[PLC/RTU Programming]
+    AUT --> HMI[HMI Development]
+
+    %% Energy Management Branch
+    EM --> MON[Monitoring]
+    EM --> OPT[Optimization]
+
+    %% Instrumentation Branch
+    INS --> CAL[Calibration]
+    INS --> INST[Installation]
+
+    %% Styling
+    classDef default fill:#3e68bb,stroke:#333,stroke-width:2px,color:white
+    classDef main fill:#3e68bb,stroke:#333,stroke-width:2px,color:white
+    class CS main
 ```
 
 ## Core Services
