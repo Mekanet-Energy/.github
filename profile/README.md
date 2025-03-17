@@ -50,7 +50,7 @@ graph LR
 
 ## Get in Touch
 
-📧 **Email**: [info@mekanetenergy.com.tr](mailto:info@mekanetenergy.com.tr)  
+📧 **Email**: [info@mekanet.com.tr](mailto:info@mekanet.com.tr)  
 📞 **Phone**: [+90 232 472 34 78](tel:+902324723478)  
 📍 **Location**: Bornova, Izmir, Turkey  
 💼 **LinkedIn**: [company/mekanet-energy-automation](https://www.linkedin.com/company/mekanet-energy-automation/)
