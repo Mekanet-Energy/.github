@@ -18,7 +18,7 @@ mindmap
       Turbo Machinery
         Turbine Maintenance
         Performance Optimization
-        Monitoring & Diagnostics
+        Monitoring and Diagnostics
       Energy Management
         Energy Consumption Monitoring
         Power Quality Analysis
