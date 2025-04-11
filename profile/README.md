@@ -7,28 +7,29 @@ Mekanet Energy specializes in control systems and industrial automation solution
 ## Our Solutions Flow
 
 ```mermaid
-graph LR
-    %% Main Systems
-    CS[Control Systems] --> AUT[Automation]
-    CS --> EM[Energy Management]
-    CS --> INS[Instrumentation]
+mindmap
+  root(MEKANET)
+      Industrial Automation
+        PLC Programming
+        SCADA System Design
+        Process Control
+        HMI Design
+        Maintenance Services
+      Turbo Machinery
+        Turbine Maintenance
+        Performance Optimization
+        Monitoring & Diagnostics
+      Energy Management
+        Energy Consumption Monitoring
+        Power Quality Analysis
+        Efficiency Optimization
+        Reactive Power Management
+      Digital Transformation
+        IoT Integration
+        Data Analytics
+        Smart Manufacturing
+        Cloud Integration
 
-    %% Automation Branch
-    AUT --> PLC[PLC/RTU Programming]
-    AUT --> HMI[HMI Development]
-
-    %% Energy Management Branch
-    EM --> MON[Monitoring]
-    EM --> OPT[Optimization]
-
-    %% Instrumentation Branch
-    INS --> CAL[Calibration]
-    INS --> INST[Installation]
-
-    %% Styling
-    classDef default fill:#3e68bb,stroke:#333,stroke-width:2px,color:white
-    classDef main fill:#3e68bb,stroke:#333,stroke-width:2px,color:white
-    class CS main
 ```
 
 ## Core Services
